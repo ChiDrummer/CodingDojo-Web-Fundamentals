@@ -1,0 +1,148 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    outline: 1px solid red;
+    
+}
+
+#container{
+   width: 970px;
+   height: 1029px; 
+}
+
+#header{
+    width: 970px;
+    height: 80px;
+}
+
+#name{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    display: inline-block;
+    width: 300px;
+}
+#profile{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 24px;
+}
+
+#jayne_picture{
+    width: 400px;
+    height: 263px;
+    display: inline-block;
+}
+
+#right_box{
+    width: 484px;
+    height: 273px;
+    display: inline-block;
+    margin-left: 24px;
+}
+
+#bio{
+    width: 50;
+    height: 100;
+    display: inline-block;
+}
+
+#about{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    display: inline-block;
+    width: 375px;
+}
+
+#bio_text{
+    width: 400px;
+    height: 200px;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+#main_body{
+    width: 970px;
+    height: 650px;
+    display: inline-block;
+}
+
+.info_box{
+    width: 293px;
+    height: 555px;
+    display: inline-block;
+}
+
+#box_header{
+    width: 289px;
+    height: 45px;
+    background: linear-gradient(white,gray,white);
+}
+
+#pic_container{
+    display: inline-block;
+    vertical-align: top;
+}
+
+.lamode_pic{
+    width: 291px;
+    height: 159px;
+    display: block;
+}
+
+#box_text{
+    width: 293px;
+    height: 156px;
+    display: block;
+    background: linear-gradient(to top left, gray, white);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+#tech_header{
+    width: 289px;
+    height: 45px;
+    display: block;
+    background: linear-gradient(white,gray,white);
+}
+
+#logo_box{
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
